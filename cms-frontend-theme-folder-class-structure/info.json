@@ -1,0 +1,9 @@
+{
+  "theme_name": "Default Theme",
+  "description": "This theme was designed & developed by members from Codelinker Pvt. Ltd.",
+  "authors": "Mahmud Abdur Rahman",
+  "version": "0.0.1-beta",
+  "license": "MIT",
+  "link": "",
+  "screenshot": "/assets/screenshot.png"
+}

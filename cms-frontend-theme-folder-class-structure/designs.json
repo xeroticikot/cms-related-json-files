@@ -1,0 +1,44 @@
+{
+  "static_pages": {
+    "page_template_one": {
+      "template_name": "Default Template",
+      "class_name": "staticPage"
+    },
+    "page_template_two": {
+      "template_name": "Demo Design Two",
+      "class_name": "staticPage"
+    }
+  },
+  "top_menus": {
+    "top_menu_default": {
+      "template_name": "Default Template",
+      "class_name": "defTopMenu"
+    }
+  },
+  "main_menus": {
+    "main_menu_default": {
+      "template_name": "Default Main Menu",
+      "class_name": "defMainMenu"
+    }
+  },
+  "footer_menus": {
+    "footer_menu_default": {
+      "template_name": "Default Footer Menu",
+      "class_name": "defFooterMenu"
+    }
+  },
+  "sidebar_menus": {
+    "sidebar_menu_default": {
+      "template_name": "Default sidebar Menu",
+      "class_name": "defSidebarMenu"
+    }
+  },
+  "sections": {
+    "about_section": {
+      "about_default": {
+        "template_name": "Default About Component",
+        "class_name": "defAbout"
+      }
+    }
+  }
+}
