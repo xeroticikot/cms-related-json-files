@@ -39,6 +39,186 @@
         "template_name": "Default About Component",
         "class_name": "defAbout"
       }
+    },
+    "heading": {
+      "heading_default": {
+        "template_name": "Default Heading Component",
+        "class_name": "defHeading"
+      }
+    },
+    "Paragraph_section": {
+      "Paragraph_default": {
+        "template_name": "Default Paragraph Component",
+        "class_name": "defParagraph"
+      }
+    },
+    "Image_section": {
+      "Image_default": {
+        "template_name": "Default Image Component",
+        "class_name": "defImage"
+      }
+    },
+    "Embed_code_section": {
+      "Embed_code_default": {
+        "template_name": "Default Embed Code Component",
+        "class_name": "defEmbedCode"
+      }
+    },
+    "Raw_html_section": {
+      "Raw_html_default": {
+        "template_name": "Raw Html Component",
+        "class_name": "defRawHtml"
+      }
+    },
+    "Document_section": {
+      "Document_default": {
+        "template_name": "Default Document Component",
+        "class_name": "defDocument"
+      }
+    },
+    "Horizontal_line_section": {
+      "Horizontal_line_default": {
+        "template_name": "Default Horizontal Line Component",
+        "class_name": "defHorizontalLine"
+      }
+    },
+    "Free_space_section": {
+      "Free_space_default": {
+        "template_name": "Default Free Space Component",
+        "class_name": "defFreeSpace"
+      }
+    },
+    "Featured_link_section": {
+      "Featured_link_default": {
+        "template_name": "Default Featured Link Component",
+        "class_name": "defFeaturedLink"
+      }
+    },
+    "Content_slider_section": {
+      "Content_slider_default": {
+        "template_name": "Default Content Slider Component",
+        "class_name": "defContentSlider"
+      }
+    },
+    "Hero_section": {
+      "Hero_default": {
+        "template_name": "Default Hero Component",
+        "class_name": "defHero"
+      }
+    },
+    "Left_or_right_image_section": {
+      "Left_or_right_image_default": {
+        "template_name": "Default Left Or Right Image Component",
+        "class_name": "defLeftOrRightImage"
+      }
+    },
+    "Features_section": {
+      "Features_default": {
+        "template_name": "Default Features Component",
+        "class_name": "defFeatures"
+      }
+    },
+    "Service_section": {
+      "Service_default": {
+        "template_name": "Default Service Component",
+        "class_name": "defService"
+      }
+    },
+    "Count_section": {
+      "Count_default": {
+        "template_name": "Default Count Component",
+        "class_name": "defCount"
+      }
+    },
+    "Clients_section": {
+      "Clients_default": {
+        "template_name": "Default Clients Component",
+        "class_name": "defClients"
+      }
+    },
+    "Testimonials_section": {
+      "Testimonials_default": {
+        "template_name": "Default Testimonials Component",
+        "class_name": "defTestimonials"
+      }
+    },
+    "Members_section": {
+      "Members_default": {
+        "template_name": "Default Members Component",
+        "class_name": "defMembers"
+      }
+    },
+    "Skill_section": {
+      "Skill_default": {
+        "template_name": "Default Skill Component",
+        "class_name": "defSkill"
+      }
+    },
+    "Package_pricing_section": {
+      "Package_pricing_default": {
+        "template_name": "Default Package Pricing Component",
+        "class_name": "defPackagePricing"
+      }
+    },
+    "FAQ_section": {
+      "FAQ_default": {
+        "template_name": "Default FAQ Component",
+        "class_name": "defFAQ"
+      }
+    },
+    "Portfolio_section": {
+      "Portfolio_default": {
+        "template_name": "Default Portfolio Component",
+        "class_name": "defPortfolio"
+      }
+    },
+    "Two_columns_section": {
+      "Two_columns_default": {
+        "template_name": "Default Two Columns Component",
+        "class_name": "defTwoColumns"
+      }
+    },
+    "Three_columns_section": {
+      "Three_columns_default": {
+        "template_name": "Default Three Columns Component",
+        "class_name": "defThreeColumns"
+      }
+    },
+    "Four_columns_section": {
+      "Four_columns_default": {
+        "template_name": "Default Four Columns Component",
+        "class_name": "defFourColumns"
+      }
+    },
+    "Embed_video_section": {
+      "Embed_video_default": {
+        "template_name": "Default Embed Video Component",
+        "class_name": "defEmbedVideo"
+      }
+    },
+    "Featured_post_section": {
+      "Featured_post_default": {
+        "template_name": "Default Featured Post Component",
+        "class_name": "defFeaturedPost"
+      }
+    },
+    "Featured_video_section": {
+      "Featured_video_default": {
+        "template_name": "Default Featured Video Component",
+        "class_name": "defFeaturedVideo"
+      }
+    },
+    "Youtube_playlist_section": {
+      "Youtube_playlist_default": {
+        "template_name": "Default Youtube Playlist Component",
+        "class_name": "defYoutubePlaylist"
+      }
+    },
+    "Render_blog_post_section": {
+      "Render_blog_post_default": {
+        "template_name": "Default Render Blog Post Component",
+        "class_name": "defRenderBlogPost"
+      }
     }
   }
 }
