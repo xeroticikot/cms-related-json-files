@@ -2,10 +2,12 @@
     "id": "",
     "name": "",
     "shortDescription": "",
-    "price": "",
+    "basePrice": "",
+    "salePrice": "",
     "slug": "",
+    "Details": [],
     "category": [],
     "collection/tag": [],
-    
-
+    "vatiant": [],
+    "review": []
 }
